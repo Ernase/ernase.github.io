@@ -169,7 +169,7 @@ int t(void) { ffi_raw_call(); return 0; }
 1 warning generated.
 Undefined symbols for architecture x86_64:
   "_ffi_raw_call", referenced from:
-      _t in conftest-4992ee.o
+      _t in conftest-ddd68a.o
 ld: symbol(s) not found for architecture x86_64
 conftest.c:5:15: warning: implicit declaration of function 'ffi_raw_call' is invalid in C99 [-Wimplicit-function-declaration]
 int t(void) { ffi_raw_call(); return 0; }
@@ -352,7 +352,7 @@ int t(void) { ffi_prep_cif_var(); return 0; }
 1 warning generated.
 Undefined symbols for architecture x86_64:
   "_ffi_prep_cif_var", referenced from:
-      _t in conftest-3a0d0e.o
+      _t in conftest-ec359e.o
 ld: symbol(s) not found for architecture x86_64
 conftest.c:5:15: warning: implicit declaration of function 'ffi_prep_cif_var' is invalid in C99 [-Wimplicit-function-declaration]
 int t(void) { ffi_prep_cif_var(); return 0; }
