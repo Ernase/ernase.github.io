@@ -2,10 +2,598 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d476108-1afa-4729-88d4-6ba828a0b455" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_config.dev.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/authors.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/chocolate-chip-cookies/comment-1473870213530.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/chocolate-chip-cookies/comment-1478213467992.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1479508047505.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1480591890264.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1482532165381.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1483456786593.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1483457152038.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1470944006665.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1470944162041.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1472308473018.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-horizontal/comment-1483124729757.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-horizontal/comment-1483128389943.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-text-readability/comment-1474306861206.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-text-readability/comment-1479253931238.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-text-readability/comment-1479265677846.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-more-images/comment-1472040323579.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-more-images/comment-1472146638519.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1470969665387.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1478928407894.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-future-date/comment-1472064560364.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-future-date/comment-1472786137736.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942205700.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942247755.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942265819.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942493518.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1471823346931.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1471834988411.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1472786599470.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1474328950155.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/navigation.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/ui-text.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/01-quick-start-guide.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/02-structure.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/03-installation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/04-upgrading.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/05-configuration.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/06-overriding-theme-defaults.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/07-navigation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/08-ui-text.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/09-authors.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/10-layouts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/11-posts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/12-pages.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/13-collections.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/14-helpers.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/15-utility-classes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/16-stylesheets.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/17-javascript.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/18-history.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/19-contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/20-docs-2-2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/21-license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_drafts/post-draft.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/analytics-providers/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/analytics-providers/google-universal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/analytics-providers/google.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/analytics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/archive-single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/author-profile-custom-links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/author-profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/base_path" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/breadcrumbs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/browser-upgrade.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/category-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/discourse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/disqus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/facebook.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/google-plus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/staticman.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/feature_row" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/figure" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/footer/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/gallery" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/group-by-array" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/head/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/masthead.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/nav_list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/page__hero.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/page__hero_video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/page__taxonomy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/paginator.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/post_pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/read-time.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/seo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/social-share.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/tag-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/video" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/archive-taxonomy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/compress.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/splash.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/404.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/about.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/archive-layout-with-content.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/category-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/collection-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/home.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/lorem-ipsum.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/page-a.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/page-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/page-b.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/portfolio-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/recipes-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/sample-page.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/sitemap.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/splash-page.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/tag-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/terms.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/year-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pets/lhasa-apso.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pets/tabby.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_portfolio/foo-bar-website.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-06-01-edge-case-many-tags.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-07-02-edge-case-many-categories.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-08-06-edge-case-no-body-content.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-09-05-edge-case-no-yaml-title.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-10-05-edge-case-title-should-not-overflow-the-content-area.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-10-05-edge-case-very-long-title.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-01-07-post-modified.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-01-07-post-standard.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-01-08-post-chat.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-02-05-post-notice.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-02-05-post-quote.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-03-07-post-link.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-06-02-post-video-youtube.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-08-05-post-image-linked.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-08-05-post-image-standard.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-08-06-post-image-linked-caption.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-08-07-post-image-caption.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-09-09-post-gallery.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-09-10-post-twitter-embeds.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-10-25-post-future-date.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-comments-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-comments.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-read-time-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-read-time.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-related-posts-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-related-posts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-sharing-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-sharing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-03-layout-read-time-comments-sharing-related-posts-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-03-layout-table-of-contents-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-14-layout-code-excerpt-generated.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-14-layout-excerpt-defined.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-14-layout-excerpt-generated.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-author-override.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-author-sidebar-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-external.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-horizontal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-text-readability.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-vertical.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-overlay-color.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-overlay-image.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-more-tag.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-sidebar-custom.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-sidebar-nav-list.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-05-22-markup-text-readability.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-01-05-markup-title-with-markup.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-01-05-markup-title-with-special-characters.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-01-09-markup-text-alignment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-01-10-markup-image-alignment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-01-11-markup-html-tags-and-formatting.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-05-22-markup-more-images.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-08-16-markup-syntax-highlighting.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2016-02-24-welcome-to-jekyll.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2016-09-21-gemified-theme-alpha.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2016-10-06-gemified-theme-beta.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2017-01-23-layout-header-video.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_recipes/chocolate-chip-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_recipes/oatmeal-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_recipes/peanut-butter-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_archive.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_masthead.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_navigation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_notices.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_page.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_sidebar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_syntax.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/_breakpoint.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/_context.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/_helpers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/_legacy-settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/_no-query.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/_parsers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/_respond-to.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/_double.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/_query.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/_resolution.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/_single.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/_triple.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/double/_default-pair.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/double/_default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/double/_double-string.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/resolution/_resolution.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/single/_default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/breakpoint/parsers/triple/_default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/font-awesome/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/magnific-popup/_magnific-popup.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/magnific-popup/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/_su.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/_susy.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/_susyone.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/_su.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/_susy.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/_susyone.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_bleed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_box-sizing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_breakpoint-plugin.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_container.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_context.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_gallery.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_grids.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_gutters.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_isolate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_margins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_padding.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_rows.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_span.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susy/_validation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susyone/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susyone/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susyone/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susyone/_isolation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susyone/_margin.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susyone/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susyone/_padding.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/language/susyone/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/_float.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/_shared.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/_support.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/float/_container.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/float/_end.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/float/_isolate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/float/_span.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/shared/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/shared/_container.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/shared/_direction.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/shared/_inspect.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/shared/_margins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/shared/_output.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/shared/_padding.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/support/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/support/_box-sizing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/support/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/support/_prefix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/support/_rem.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/output/support/_support.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/su/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/su/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/su/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/vendor/susy/susy/su/_validation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/css/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/3953273590_704e3899d5_m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/500x300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-76x76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/bio-photo-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/bio-photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/facebook-share-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/foo-bar-identity-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/foo-bar-identity.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-1200x4002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-300x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-580x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/markup-syntax-highlighting-teaser.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/michael-rose.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-archive-grid-view-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-author-profile-reddit-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-author-profile-reddit-gs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-author-sidebar-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-breadcrumbs-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-browser-mockups.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-bundle-install.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-custom-sidebar-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-custom-sidebar-nav.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-customizable-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-free-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-gh-pages.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-github-copy-repo-url.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-github-edit-config.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-header-overlay-black-filter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-header-overlay-red-filter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-home-page-feature.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-home-post-pagination-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-archive-taxonomy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-examples.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-single-header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-single-meta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-single.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-paragraph-indent-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-portfolio-collection-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-priority-plus-masthead.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-read-time-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-responsive-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-single-header-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-single-header-overlay-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-single-header-overlay-fill-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-social-share-links-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-social-share-links-reddit-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-social-share-links-reddit-gs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-staticman-pr-webhook.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-susy-grid-overlay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-teaser-images-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-theme-fork-repo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-theme-post-600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-theme-post-750.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-toc-helper-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-twitter-card-summary-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-twitter-card-summary-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-ui-text-labels.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mstile-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mstile-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mstile-310x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mstile-310x310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mstile-70x70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/paragraph-indent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/paragraph-no-indent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/safari-pinned-tab.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/site-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-1-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-2-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-3-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-4-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/_main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/main.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/plugins/jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/plugins/jquery.greedy-navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/plugins/jquery.magnific-popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/plugins/jquery.smooth-scroll.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/vendor/jquery/jquery-1.12.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/screenshot-layouts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_data/authors.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_data/navigation.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_data/ui-text.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/404.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/archive-layout-with-content.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/category-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/collection-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/lorem-ipsum.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/page-a.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/page-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/page-b.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/portfolio-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/recipes-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/sample-page.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/sitemap.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/splash-page.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/tag-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/terms.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/year-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pets/lhasa-apso.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pets/tabby.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_portfolio/foo-bar-website.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-06-01-edge-case-many-tags.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-07-02-edge-case-many-categories.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-08-06-edge-case-no-body-content.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-09-05-edge-case-no-yaml-title.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-10-05-edge-case-title-should-not-overflow-the-content-area.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-10-05-edge-case-very-long-title.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-01-07-post-modified.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-01-07-post-standard.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-01-08-post-chat.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-02-05-post-notice.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-02-05-post-quote.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-03-07-post-link.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-06-02-post-video-youtube.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-image-linked.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-image-standard.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-06-post-image-linked-caption.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-07-post-image-caption.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-09-09-post-gallery.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-09-10-post-twitter-embeds.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-10-25-post-future-date.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-comments-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-comments.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-read-time-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-read-time.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-related-posts-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-related-posts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-sharing-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-sharing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-read-time-comments-sharing-related-posts-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-table-of-contents-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-code-excerpt-generated.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-excerpt-defined.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-excerpt-generated.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-author-override.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-author-sidebar-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-external.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-horizontal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-text-readability.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-vertical.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-overlay-color.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-overlay-image.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-more-tag.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-sidebar-custom.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-sidebar-nav-list.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-05-22-markup-text-readability.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-05-markup-title-with-markup.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-05-markup-title-with-special-characters.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-09-markup-text-alignment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-10-markup-image-alignment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-11-markup-html-tags-and-formatting.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-05-22-markup-more-images.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-08-16-markup-syntax-highlighting.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2016-02-24-welcome-to-jekyll.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2017-01-23-layout-header-video.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_recipes/chocolate-chip-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_recipes/oatmeal-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_recipes/peanut-butter-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/3953273590_704e3899d5_m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/500x300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/bio-photo-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/bio-photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/facebook-share-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/foo-bar-identity-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/foo-bar-identity.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-1200x4002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-300x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-580x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/markup-syntax-highlighting-teaser.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-archive-grid-view-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-author-profile-reddit-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-author-profile-reddit-gs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-author-sidebar-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-breadcrumbs-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-browser-mockups.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-bundle-install.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-custom-sidebar-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-custom-sidebar-nav.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-customizable-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-free-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-gh-pages.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-github-copy-repo-url.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-github-edit-config.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-header-overlay-black-filter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-header-overlay-red-filter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-home-page-feature.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-home-post-pagination-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-archive-taxonomy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-examples.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single-header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single-meta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-paragraph-indent-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-portfolio-collection-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-priority-plus-masthead.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-read-time-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-responsive-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-overlay-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-overlay-fill-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-reddit-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-reddit-gs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-staticman-pr-webhook.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-susy-grid-overlay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-teaser-images-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-fork-repo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-post-600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-post-750.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-toc-helper-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-twitter-card-summary-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-twitter-card-summary-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-ui-text-labels.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/paragraph-indent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/paragraph-no-indent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/safari-pinned-tab.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-1-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-2-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-3-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-4-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/index.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-02-05-post-test.md" afterPath="$PROJECT_DIR$/_posts/2017-02-09-software-engineering-prologue.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-05-post-test.md" afterPath="$PROJECT_DIR$/_posts/2017-02-05-post-test.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/portfolio-archive.html" afterPath="$PROJECT_DIR$/_pages/portfolio-archive.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,12 +608,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2017-02-05-post-test.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-02-05-post-test.md">
+      <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -33,12 +631,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-01-23-layout-header-video.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/_posts/2017-01-23-layout-header-video.md">
+      <file leaf-file-name="2017-02-09-software-engineering-prologue.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-09-software-engineering-prologue.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="82">
+                <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -46,42 +644,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="collection-archive.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/collection-archive.html">
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../minimal-mistakes-master/docs/_pages/about.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-390">
+                <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="19" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="390">
+              <caret line="90" column="20" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-archive.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/page-archive.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portfolio-archive.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/portfolio-archive.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recipes-archive.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/recipes-archive.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="foo-bar-website.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_portfolio/foo-bar-website.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -96,8 +690,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="category-archive.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/category-archive.html">
+      <file leaf-file-name="page-a.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/page-a.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-archive.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/page-archive.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -106,18 +713,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="9" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sitemap.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/sitemap.md">
+      <file leaf-file-name="lorem-ipsum.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/lorem-ipsum.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -148,16 +745,20 @@
         <option value="$PROJECT_DIR$/_posts/2017-02-06-post_test.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-06-post-test.md" />
         <option value="$PROJECT_DIR$/_data/ui-text.yml" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2017-02-05-post-test.md" />
+        <option value="$PROJECT_DIR$/vendor/cache/ruby/2.0.0/gems/jekyll-3.4.0/lib/site_template/about.md" />
+        <option value="$PROJECT_DIR$/_portfolio/foo-bar-website.md" />
+        <option value="$PROJECT_DIR$/_pages/portfolio-archive.html" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-05-post-test.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-09-software-engineering-prologue.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1366" />
-    <option name="height" value="677" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -196,24 +797,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ernase.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ernase.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -228,7 +811,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
+              <option name="myItemId" value="_portfolio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -268,8 +851,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/back" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_posts" />
@@ -425,27 +1014,46 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="677" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871014" sideWeight="0.24743778" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871014" sideWeight="0.7525622" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -455,14 +1063,185 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2010-01-07-post-standard.md">
+    <entry file="file://$PROJECT_DIR$/_pages/terms.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/archive-layout-with-content.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2806">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/docs/_pets/lhasa-apso.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/docs/_pets/tabby.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/collection-archive/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486994200000" expanded="false" signature="1616:1626" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/_recipes/oatmeal-cookies.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/test/_pets/lhasa-apso.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/recipes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486994200000" expanded="false" signature="1570:1580" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/test/_data/authors.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/test/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/test/_data/ui-text.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6389">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minimal-mistakes-jekyll.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshot-layouts.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -508,7 +1287,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-674">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -522,18 +1301,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-23-layout-header-video.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-02-24-welcome-to-jekyll.md">
+    <entry file="file://$PROJECT_DIR$/back/_recipes/chocolate-chip-cookies.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -544,7 +1312,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-05-22-markup-more-images.md">
+    <entry file="file://$PROJECT_DIR$/back/test/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="281" column="1" lean-forward="false" selection-start-line="281" selection-start-column="1" selection-end-line="288" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/docs/_portfolio/foo-bar-website.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -555,7 +1331,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-01-09-markup-text-alignment.md">
+    <entry file="file://$PROJECT_DIR$/back/test/_portfolio/foo-bar-website.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -566,84 +1342,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-05-22-markup-text-readability.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-03-15-layout-more-tag.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2010-09-09-post-gallery.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-07-02-edge-case-many-categories.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-10-05-edge-case-title-should-not-overflow-the-content-area.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2010-01-08-post-chat.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-01-03-layout-read-time-comments-sharing-related-posts-disabled.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_data/navigation.yml">
+    <entry file="file://$PROJECT_DIR$/_site/page9/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -651,110 +1350,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/_data/ui-text.yml">
+    <entry file="file://$PROJECT_DIR$/_site/page8/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_pets/lhasa-apso.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_pets/tabby.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_pages/404.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_pages/archive-layout-with-content.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-825">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_pages/collection-archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_pages/category-archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/404.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/ui-text.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
+        <state relative-caret-position="475">
           <caret line="457" column="0" lean-forward="false" selection-start-line="457" selection-start-column="0" selection-end-line="457" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="264" column="26" lean-forward="false" selection-start-line="248" selection-start-column="2" selection-end-line="264" selection-end-column="26" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/screenshot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2099">
-          <caret line="81" column="44" lean-forward="false" selection-start-line="81" selection-start-column="44" selection-end-line="81" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2009-06-01-edge-case-many-tags.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -765,7 +1382,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2009-07-02-edge-case-many-categories.md">
+    <entry file="file://$PROJECT_DIR$/vendor/cache/ruby/2.0.0/gems/jekyll-3.4.0/lib/site_template/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -776,120 +1393,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2009-09-05-edge-case-no-yaml-title.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2010-01-07-post-standard.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2012-03-14-layout-excerpt-defined.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-external.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-vertical.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-overlay-image.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2013-01-05-markup-title-with-special-characters.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2013-01-11-markup-html-tags-and-formatting.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_posts/2017-01-23-layout-header-video.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-02-05-post-test.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/tag-archive.html">
+    <entry file="file://$PROJECT_DIR$/_pages/recipes-archive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/collection-archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -902,7 +1417,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/collection-archive.html">
+    <entry file="file://$PROJECT_DIR$/_pages/portfolio-archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/tag-archive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -918,23 +1441,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/portfolio-archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_pages/lorem-ipsum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/recipes-archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/sitemap.md">
+    <entry file="file://$PROJECT_DIR$/_pages/page-a.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -948,8 +1466,60 @@
     <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="9" selection-end-column="19" />
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_portfolio/foo-bar-website.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="90" column="20" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../minimal-mistakes-master/docs/_pages/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-390">
+            <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-09-software-engineering-prologue.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="82">
+            <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

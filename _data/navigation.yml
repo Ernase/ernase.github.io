@@ -2,9 +2,19 @@
 main:
   - title: "About"
     url: /about/
-  - title: "By Year"
+  - title: "Posts"
     url: /year-archive/
-  - title: "By Category"
+  - title: "Categories"
     url: /categories/
+#  - title: "Portfolio"
+#    url: /portfolio/
+#  - title: "By Collection"
+#    url: /collection-archive/
+#  - title: "Pages"
+#    url: /page-archive/
+#  - title: "Recipes"
+#    url: /recipes/
+#  - title: "Tags"
+#    url: /tags/
 #  - title: "Sitemap"
 #    url: /sitemap/

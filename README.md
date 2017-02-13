@@ -39,7 +39,7 @@ See what's new in the [CHANGELOG](CHANGELOG.md).
 | [Categories Archive][categories-archive] | Posts grouped by category. |
 | [Tags Archive][tags-archive] | Posts grouped by tags. |
 
-Additional sample posts are available under [posts archive][year-archive] on the demo site. Source files for these (and the entire demo site) can be found in [`/docs`](docs).
+Additional sample posts are available under [posts archive][year-archive] on the demo site. Source files for these (and the entire demo site) can be found in [`/docs`](back/docs).
 
 [header-image-post]: https://mmistakes.github.io/minimal-mistakes/layout-header-image-text-readability/
 [gallery-post]: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
@@ -92,7 +92,7 @@ This goes for author sidebar links and "share button" additions -- I have no int
 
 To help me out try to avoid creating pull requests on `master` and instead branch off of `develop`. It's much easier for me to test, merge, and roll them into new releases this way.
 
-Theme documentation and demo pages can be found in the [`/docs`](docs) if submitting improvements, typo corrections, etc.
+Theme documentation and demo pages can be found in the [`/docs`](back/docs) if submitting improvements, typo corrections, etc.
 
 ## Development
 
