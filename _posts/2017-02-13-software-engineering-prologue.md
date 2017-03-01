@@ -1,5 +1,5 @@
 ---
-title: "Preface: 업계에서 마주친 소프트웨어 공학의 현실"
+title: "Preface: 현실에서 마주친 소프트웨어 공학의 현실"
 categories:
   - 컴퓨터
 
